@@ -5,7 +5,7 @@ Ciao! 👋 I'm Simon, a personal development mentor helping tech professionals l
 ## What You'll Find Here
 I'm gonna share no BS actionable tips, advices, and strategies specifically designed for smart people. Whether you’re looking to improve your dating life, meet new people, build confidence, or develop communication skills, you'll be able to take action and implement my advice easily.
 
-Check out my latest post!
+Check out my [latest posts!](https://github.com/SimonPowellGDM/geek-dating-mentoring-blog/tree/social-skills)
 
 ## Contact
 Feel free to reach out if you want personalized advice or mentorship! You can [contact me here](simonpowelladvice@protonmail.com).
