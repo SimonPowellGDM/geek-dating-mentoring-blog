@@ -8,7 +8,7 @@ Awkward silences can feel like a “system crash” in social settings, leaving 
 
 Before diving into solutions, let's acknowledge some of the key challenges you might be facing:
 
-- **Perfectionism:** You often feel the need to say the perfect thing at all times.
+- **Perfectionism:** You often feel the need to say the perfect thing every single time.
 - **Fear of Rejection:** You’re afraid that making mistakes will result in you not being appreciated, respected, loved.
 - **Lack of Experience:** Working from home and limited social interaction outside of work restrict opportunities to meet new people.
 
