@@ -2,7 +2,7 @@
 
 You’re used to optimizing code, debugging errors, and finding the most efficient solutions to complex problems. But when it comes to conversations... especially with potential dates, many of us may have faced a challenge: the fear of awkward silences.
 
-Awkward silences can feel like a “system crash” in social settings, leaving us feeling exposed, unsure, and afraid of being judged by other. But just as a program can recover from a bug, you too can apply a patch to fix this. Here’s how:
+Awkward silences can feel like a “system crash” in social settings, leaving us feeling exposed, unsure, and afraid of being judged by others. But just as a program can recover from a bug, you too can apply a patch to fix this. Here’s how:
 
 ## Common Challenges
 
