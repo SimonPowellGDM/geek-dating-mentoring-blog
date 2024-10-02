@@ -29,8 +29,8 @@ Here’s a **step-by-step guide** to overcoming your fear of awkward silences, b
 ### 3. Shift the Focus to the Other Person
 - When you’re unsure of what to say next, the best topic is always something about the other person. People generally love talking about themselves.
 - Ask questions like:  
-  *“What’s been exciting you lately in your work?”* or  
-  *“What got you interested in your field in the first place?”*  
+  *“What will you do 1 year from now?”* or  
+  *“What got you interested in your favorite hobby?”*  
   These are both open-ended and give the other person room to share, keeping the conversation going naturally.
 
 ### 4. Practice in Familiar Settings
