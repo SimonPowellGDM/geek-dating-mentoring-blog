@@ -20,7 +20,7 @@ Here’s a **step-by-step guide** to overcoming your fear of awkward silences, b
 
 ### 1. Understand That Silence Is Normal
 - Even the most social and talkative people experience moments of silence during conversations. It’s not a signal that the interaction is going poorly. It's a natural consequence.
-- Think of silence as a “pause” in a system - sometimes also within our brains "the bar is loading".
+- Think of silence as a “pause” in a system - sometimes, while using our brains, "the bar is still loading".
 
 ### 2. Reframe Responsibility
 - The responsibility for keeping the conversation flowing is **50% yours** and **50% the other person’s**. If there’s a very long pause, it’s not entirely your fault.
